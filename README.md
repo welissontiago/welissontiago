@@ -21,6 +21,8 @@
 <div align="center">
   <a href="https://github.com/welissontiago">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=welissontiago&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+     <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MthAlvarez&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
   </a>
 </div>
 

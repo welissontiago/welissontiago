@@ -8,7 +8,7 @@
   </h1>
   
   <p align="center">
-    Sou estudando de engenharia de Software da Universidade Catolica do salvador
+    Sou estudande de engenharia de Software da Universidade Catolica do salvador
     </a>  
   </p>
   

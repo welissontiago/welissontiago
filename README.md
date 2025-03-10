@@ -13,7 +13,7 @@
   </p>
   
   <p align="center">
-    Obrigado por visitar meu perfil! (′ꈍωꈍ‵)
+    Obrigado por visitar meu perfil! 
   </p>
   
 </div>

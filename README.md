@@ -52,8 +52,22 @@
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=6DB33F&labelColor=0D1117)&nbsp;
 
 
-<div align="center">
-  💻 Desenvolvido por [Uelisson](https://github.com/welissontiago) 
-  ![GitHub Followers](https://img.shields.io/github/followers/welissontiago?style=social) ![GitHub Stars](https://img.shields.io/github/stars/welissontiago?style=social)
+  <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/222202108-9c9cd3d5-3da3-4c92-a2b4-8a7986e1eb57.gif" width="200">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/welissontiago?color=0b8c8c&label=Followers&logo=github&style=flat-square">
+  <img src="https://img.shields.io/github/stars/welissontiago?color=0b8c8c&label=Stars&logo=github&style=flat-square">
+</p>
+
+<p align="center">
+  🔥 Feito com muito código e café ☕  
+  <br>💬 Me encontre no <a href="https://linkedin.com/in/uelisson-tiago-a549691b5/" target="_blank">LinkedIn</a>.
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/222202202-1fbc8300-4fd1-4f59-90ce-76b53c65b911.gif" width="100">
+</p>
   
   ![snake gif](https://github.com/welissontiago/welissontiago/blob/output/github-contribution-grid-snake.svg)

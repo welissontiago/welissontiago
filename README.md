@@ -9,7 +9,7 @@
   </h1>
   
   <p align="center">
-    I am a Software Engineering student at the Catholic University of Salvador.
+    I am a Software Engineering student at the Catholic University of Salvador. I'm 22 years old and I'm looking for my first job in the field!
     </a>  
   </p>
   
@@ -69,5 +69,3 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/222202202-1fbc8300-4fd1-4f59-90ce-76b53c65b911.gif" width="100">
 </p>
-  
- ![snake gif](https://github.com/welissontiago/welissontiago/blob/output/github-contribution-grid-snake.svg)

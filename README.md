@@ -21,9 +21,11 @@
 
 <div align="center">
   <a href="https://github.com/welissontiago">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=welissontiago&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-     <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=welissontiago&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=welissontiago&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+  </a>
+  <br><br>
+  <a href="https://github.com/welissontiago">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=welissontiago&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
   </a>
 </div>
 
@@ -51,8 +53,7 @@
 
 
 <div align="center">
-  <p>Feito por .</p>
-
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>****
+  💻 Desenvolvido por [Uelisson](https://github.com/welissontiago) 
+  ![GitHub Followers](https://img.shields.io/github/followers/welissontiago?style=social) ![GitHub Stars](https://img.shields.io/github/stars/welissontiago?style=social)
   
   ![snake gif](https://github.com/welissontiago/welissontiago/blob/output/github-contribution-grid-snake.svg)

@@ -70,4 +70,4 @@
   <img src="https://user-images.githubusercontent.com/74038190/222202202-1fbc8300-4fd1-4f59-90ce-76b53c65b911.gif" width="100">
 </p>
   
- ![Snake animation](https://your-custom-host.com/github-contribution-grid-snake.svg)
+ ![snake gif](https://github.com/welissontiago/welissontiago/blob/output/github-contribution-grid-snake.svg)

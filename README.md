@@ -7,7 +7,12 @@
     Hi my name is, 
     <a href="https://www.linkedin.com/in/uelisson-tiago-a549691b5/">Uelisson Tiago 😃️</a>
   </h1>
-  
+
+  <p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=SEU_ID_AQUI" width="200">
+</p>
+
+<img src="https://tenor.com/pt-BR/view/rainday-gif-20761311" width="200">
   <p align="center">
     I am a Software Engineering student at the Catholic University of Salvador. I'm 22 years old and I'm looking for my first job in the field!
     </a>  

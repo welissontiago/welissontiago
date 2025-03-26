@@ -21,12 +21,9 @@
 
 <div align="center">
   <a href="https://github.com/welissontiago">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=welissontiago&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-  </a>
-  <br><br>
-  <a href="https://github.com/welissontiago">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=welissontiago&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-  </a>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=TexLuciano&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Luciano Martinello github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TexLuciano&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 

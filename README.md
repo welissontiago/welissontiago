@@ -53,10 +53,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/222202108-9c9cd3d5-3da3-4c92-a2b4-8a7986e1eb57.gif" width="200">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/welissontiago?color=0b8c8c&label=Followers&logo=github&style=flat-square">
-  <img src="https://img.shields.io/github/stars/welissontiago?color=0b8c8c&label=Stars&logo=github&style=flat-square">
-</p>
 
 <p align="center">
   🔥 Feito com muito código e café ☕  

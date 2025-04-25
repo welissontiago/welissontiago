@@ -9,7 +9,7 @@
   </h1>
 
   <p align="center">
-    I am a Software Engineering student at the Catholic University of Salvador. I'm 22 years old and I'm looking for my first job in the field!
+    I am a Software Engineering student at the Catholic University of Salvador. I'm 23 years old and I'm looking for my first job in the field!
     </a>  
   </p>
   

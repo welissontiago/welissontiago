@@ -1,4 +1,4 @@
-<img src="img/Capa Twitch.png" width="100%">
+<img src="img/Banner linkedin.png" width="100%">
 
 
 <div>

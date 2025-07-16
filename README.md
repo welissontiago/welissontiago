@@ -50,6 +50,7 @@
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=6DB33F&labelColor=0D1117)&nbsp;
 
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
+<img align="left" src="shigure-ui-dance.gif" width="15%">
 
 
   <p align="center">

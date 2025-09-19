@@ -52,9 +52,6 @@
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
 <img align="left" src="https://github.com/welissontiago/welissontiago/blob/main/img/shigure-ui-dance.gif?raw=true" max-width="100%">
 
-  <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/222202108-9c9cd3d5-3da3-4c92-a2b4-8a7986e1eb57.gif" width="200">
-</p>
 
 
 <p align="center">

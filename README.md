@@ -1,4 +1,4 @@
-<img src="img/Banner linkedin.png" width="100%">
+<img src="img/Animação_de_Imagem_Natural_em_Loop.mp4" width="100%">
 
 
 <div>

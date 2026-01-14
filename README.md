@@ -20,7 +20,7 @@
 </div>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-welisson.vercel.app/api?username=welissontiago&show_icons=true&count_private=true&hide_border=true&title_color=f0ebd8&icon_color=3e5c76&text_color=f0ebd8&bg_color=123456" alt="Github stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats-welissontiago.vercel.app/api?username=welissontiago&show_icons=true&count_private=true&hide_border=true&title_color=f0ebd8&icon_color=3e5c76&text_color=f0ebd8&bg_color=123456" alt="Github stats" />
  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=welissontiago&layout=compact&langs_count=5&hide=css,batchfile,less,powershell,scss&hide_border=true&title_color=f0ebd8&text_color=f0ebd8&bg_color=123456" />
 </div>
 

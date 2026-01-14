@@ -1,4 +1,4 @@
-<img src="img/ezgif.com-optimize.gif" width="100%">
+<img src="img/ezgif.com-optimize (1).gif" width="100%">
 
 
 <div>

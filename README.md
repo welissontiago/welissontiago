@@ -19,16 +19,9 @@
   
 </div>
 
-<div align="center">  
-  <img width="49%" height="195px"
-       src="https://github-readme-stats.vercel.app/api?username=welissontiago&show_icons=true&count_private=true&hide_border=true&title_color=f0ebd8&icon_color=3e5c76&text_color=f0ebd8&bg_color=123456"
-       alt="Github stats" />
-
-  <img width="41%" height="195px"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=welissontiago&layout=compact&langs_count=5&hide=css,batchfile,less,powershell,scss&hide_border=true&title_color=f0ebd8&text_color=f0ebd8&bg_color=123456" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=welissontiago&theme=dark&hide_border=true&background=123456&ring=f0ebd8&fire=3e5c76&currStreakLabel=f0ebd8" />
 </div>
-
-
 <div align="center">
   <a href="https://www.linkedin.com/in/Uelisson-Tiago/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:tagots09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

@@ -39,19 +39,11 @@
 
 <table align="center">
   <tr>
-    <td><img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="60"></td>
-    <td width="20"></td>
-    <td><img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" width="60"></td>
-    <td width="20"></td>
-    <td><img src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png" width="60"></td>
-    <td width="20"></td>
     <td><img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" width="60"></td>
     <td width="20"></td>
     <td><img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" width="60"></td>
     <td width="20"></td>
-    <td><img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" width="60"></td>
-    <td width="20"></td>
-    <td><img src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png" width="60"></td>
+    <td><img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" width="60"></td>
   </tr>
 </table>
 

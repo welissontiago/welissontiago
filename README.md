@@ -57,7 +57,7 @@
 
 
 <p align="center">
-  🔥 Feito com muito código e café ☕  
+  🔥 Beba Café ☕  
   <br>💬 Me encontre no <a href="https://linkedin.com/in/uelisson-tiago-a549691b5/" target="_blank">LinkedIn</a>.
 </p>
 

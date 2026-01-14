@@ -52,7 +52,7 @@
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=6DB33F&labelColor=0D1117)&nbsp;
 
-<img src="img/Neko Gojo Satoru.gif" width="20%">
+<img align="right" src="img/Neko Gojo Satoru.gif" width="10%">
 
 
 

@@ -21,9 +21,7 @@
 
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=welissontiago&theme=github-dark-blue&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D" />
-  </a>
+  <img src="https://github-readme-streak-stats.vercel.app/?user=welissontiago&theme=github-dark-blue&locale=pt_BR" />
 </div>
 
 

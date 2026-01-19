@@ -20,7 +20,8 @@
 </div>
 
 
- ![GitHub Streak](https://streak-stats.demolab.com?user=welissontiago&theme=github-dark-blue&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&cache_bust=1)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=welissontiago&theme=github-dark-blue&locale=pt_BR)
+
 
 
 </div>

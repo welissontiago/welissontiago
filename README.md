@@ -20,7 +20,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=welissontiago&theme=dark&hide_border=true&background=123456&ring=f0ebd8&fire=3e5c76&currStreakLabel=f0ebd8" />
+  <img src="[https://github-readme-streak-stats.herokuapp.com?user=welissontiago&theme=dark&hide_border=true&background=123456&ring=f0ebd8&fire=3e5c76&currStreakLabel=f0ebd8](https://streak-stats.demolab.com/?user=welissontiago&theme=dark&hide_border=true&background=123456&ring=f0ebd8&fire=3e5c76&currStreakLabel=f0ebd8&locale=pt_BR)" />
 </div>
 <div align="center">
   <a href="https://www.linkedin.com/in/Uelisson-Tiago/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 

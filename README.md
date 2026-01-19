@@ -21,11 +21,8 @@
 
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=welissontiago&theme=github-dark-blue&locale=pt_BR" />
+  <img src="https://github-readme-stats.vercel.app/api?username=welissontiago&show_icons=true&theme=tokyonight" />
 </div>
-
-
-
 
 
 </div>
